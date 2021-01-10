@@ -1,2 +1,2 @@
-# c-28-slingshot-
-i have made slingshot for the first time
+# p5.play-boilerplate
+Boiler plate for p5.play

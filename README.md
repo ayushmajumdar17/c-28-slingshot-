@@ -1,2 +1,2 @@
 # c-28-slingshot-
-i have maked slingshot for the first time
+i have made slingshot for the first time
